@@ -1,7 +1,13 @@
 # (Introduction to) Building Your Own Idea
 
 <div class="alert alert-primary mt-2">
-  <a href="https://youtu.be/meNvup0lX0U">Video</a>
+  <ul>
+    <li>
+      <a href="https://youtu.be/meNvup0lX0U" target="_blank">Video</a>
+    </li>
+    <li>
+      <a href="https://github.com/dpi-tta-slides/noticing-a-project-idea" target="_blank">Slides</a>
+    </li>
 </div>
 
 Can you now identify a problem that can be solved with software and build something to test your theory?
