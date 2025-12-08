@@ -1,9 +1,7 @@
 # (Introduction to) Building Your Own Idea
 
 <div class="alert alert-primary mt-2">
-
-[Video](https://youtu.be/meNvup0lX0U)
-
+  <a href="https://youtu.be/meNvup0lX0U">Video</a>
 </div>
 
 Can you now identify a problem that can be solved with software and build something to test your theory?
