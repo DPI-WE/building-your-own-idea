@@ -8,6 +8,7 @@
     <li>
       <a href="https://github.com/dpi-tta-slides/noticing-a-project-idea" target="_blank">Slides</a>
     </li>
+  </ul>
 </div>
 
 Can you now identify a problem that can be solved with software and build something to test your theory?
